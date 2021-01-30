@@ -1,0 +1,15 @@
+setup.py
+getSwitch/__init__.py
+getSwitch/items.py
+getSwitch/middlewares.py
+getSwitch/pipelines.py
+getSwitch/settings.py
+getSwitch/spiders/GreySwitch_spider.py
+getSwitch/spiders/RBSwitch_spider.py
+getSwitch/spiders/__init__.py
+getSwitch/spiders/getSwitch.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
